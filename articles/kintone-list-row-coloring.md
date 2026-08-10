@@ -1,5 +1,5 @@
 ---
-title: "【kintone】一覧画面で条件に応じて行を色分けする ― コピペで動く実装と、崩れやすいDOM操作の注意点"
+title: "kintoneの行色分け、2ページ目で色が崩れる理由 ― 見落としがちな4つの罠"
 emoji: "🎨"
 type: "tech"
 topics: ["kintone", "javascript", "業務改善", "ローコード"]
